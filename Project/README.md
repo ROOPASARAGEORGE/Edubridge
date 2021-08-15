@@ -1,1 +1,1 @@
-This folder contains projects using various softwares learned during the course.
+This folder contains projects done using various softwares learned during the course.
