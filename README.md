@@ -1,1 +1,1 @@
-This repository contains all the projects and assignments submitted during the post graduation certification in data analytics provided by Edubridge Online Learning platform.  
+This repository contains all the projects and assignments submitted based on all things I have learned  under the post graduate certification in data analytics online training provided by Edubridge India.  
